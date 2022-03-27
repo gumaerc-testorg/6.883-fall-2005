@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 093f7fe0-0555-3f32-9c47-34c6496785fe
 resourcetype: Document
 title: test_case_reduct.pdf
 uid: aa15a1e9-bd23-85c4-8931-e40c5b0cabb0

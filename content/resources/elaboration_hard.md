@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 093f7fe0-0555-3f32-9c47-34c6496785fe
 resourcetype: Document
 title: elaboration_hard.pdf
 uid: 0661ea5a-4678-02fd-16df-b36ff4ffc611

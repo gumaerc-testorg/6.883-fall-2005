@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 093f7fe0-0555-3f32-9c47-34c6496785fe
 resourcetype: Document
 title: unit_type_infere.pdf
 uid: b068226d-bde9-32a8-42bb-87bccf8b7ee3

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 093f7fe0-0555-3f32-9c47-34c6496785fe
 resourcetype: Document
 title: object_control_i.pdf
 uid: 58b747da-7ffc-69ed-fa12-28b02b0f0a8c

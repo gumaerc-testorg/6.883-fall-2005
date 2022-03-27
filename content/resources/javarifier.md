@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 093f7fe0-0555-3f32-9c47-34c6496785fe
 resourcetype: Document
 title: javarifier.pdf
 uid: e0cdb8c7-dda2-b85b-3ae3-77bf45cc1bbb

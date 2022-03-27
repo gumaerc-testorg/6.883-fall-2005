@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3f1d813b-7bf1-c2a5-cf0b-64798974910c
 resourcetype: Document
 title: points_to.pdf
 uid: c6c213ad-0be9-9552-f212-ffb9b1d93181

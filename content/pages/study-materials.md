@@ -2,8 +2,9 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Study Materials
 uid: 3f1d813b-7bf1-c2a5-cf0b-64798974910c
 ---
 
-Point-to Analysis Notes ([PDF]({{< baseurl >}}/resources/points_to)) (Courtesy of Derek Rayside. Used with permission.)
+Point-to Analysis Notes ({{< resource_link c6c213ad-0be9-9552-f212-ffb9b1d93181 "PDF" >}}) (Courtesy of Derek Rayside. Used with permission.)

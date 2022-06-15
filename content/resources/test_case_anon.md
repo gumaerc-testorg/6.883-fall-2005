@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-883-program-analysis-fall-2005/90bc3e210a22f16ad95cd83864952878_test_case_anon.pdf
+file: /courses/6-883-program-analysis-fall-2005/90bc3e210a22f16ad95cd83864952878_test_case_anon.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

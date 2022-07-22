@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course description, prerequisites,
+  course structure, and grading for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8f439fad-9a00-ca57-0680-5533b3c4a2cc
 ---

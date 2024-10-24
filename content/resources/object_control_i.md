@@ -4,7 +4,7 @@ description: 'This file includes an analytic approach to characterizing sharing 
   encapsulation, and a lightweight ownership inference algorithm which explains object
   control invariants, dynamic detection of likely object control invariants, scalability:
   TSafe case study, related work, and conclusion.'
-file: /courses/6-883-program-analysis-fall-2005/58b747da7ffc69edfa1228b02b0f0a8c_object_control_i.pdf
+file: /ol-ocw-studio-app/courses/6-883-program-analysis-fall-2005/58b747da7ffc69edfa1228b02b0f0a8c_object_control_i.pdf
 file_size: 306629
 file_type: application/pdf
 learning_resource_types:

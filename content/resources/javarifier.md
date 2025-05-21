@@ -8,7 +8,7 @@ description: 'This file includes background on the Javari language, explains the
 
   the algorithm and heuristics within the Javarifier tool, experience using Javarifier
   on a variety of java program, related work, and the conclusion.'
-file: /ol-ocw-studio-app/courses/6-883-program-analysis-fall-2005/e0cdb8c7dda2b85b3ae377bf45cc1bbb_javarifier.pdf
+file: /courses/6-883-program-analysis-fall-2005/e0cdb8c7dda2b85b3ae377bf45cc1bbb_javarifier.pdf
 file_size: 306645
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This file describes a technique used by programmers to find bugs as indicated
   by the inferred unit types not matching up with their intuition and as a starting
   point for annotating their code with units using an annotation framework.
-file: /ol-ocw-studio-app/courses/6-883-program-analysis-fall-2005/b068226dbde932a842bb87bccf8b7ee3_unit_type_infere.pdf
+file: /courses/6-883-program-analysis-fall-2005/b068226dbde932a842bb87bccf8b7ee3_unit_type_infere.pdf
 file_size: 178927
 file_type: application/pdf
 learning_resource_types:

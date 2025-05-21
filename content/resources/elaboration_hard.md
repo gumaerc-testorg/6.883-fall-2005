@@ -5,7 +5,7 @@ description: 'This file describes HigherOrder
   Abstract Syntax (HOAS) technique to show that it is also applicable to hardware
   elaboration, as it resulted in an average improvement in elaboration time of 45%
   on five of six benchmark designs.'
-file: /ol-ocw-studio-app/courses/6-883-program-analysis-fall-2005/0661ea5a467802fd16dfb36ff4ffc611_elaboration_hard.pdf
+file: /courses/6-883-program-analysis-fall-2005/0661ea5a467802fd16dfb36ff4ffc611_elaboration_hard.pdf
 file_size: 694015
 file_type: application/pdf
 learning_resource_types:
